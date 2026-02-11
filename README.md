@@ -1,10 +1,9 @@
----
+
 
 # 📊 Software Sales Multi-Page Analytics Dashboard
 
 **Enterprise-Grade Business Intelligence Solution using Tableau & MSSQL**
 
----
 
 ## 🧩 Project Overview
 
